@@ -1,7 +1,5 @@
-name: java spring app
+name: Node CI
 
-env:
-    
 on: push
 
 jobs:
